@@ -8,6 +8,6 @@ This is the accompanying code and supplemental information for the paper _An Edu
 
 **Solution to the linear wave equation** $u_{tt} = c^2 u_{xx}$
 
-![An animation of the solution to the nonlinear wave equation](pinn-linear-showcase.gif)
+![An animation of the solution to the nonlinear wave equation](pinn-nonlinear-showcase.gif)
 
 **Solution to the nonlinear wave equation** $u_{tt} = c^2 u_{xx} + \varepsilon u^2$
