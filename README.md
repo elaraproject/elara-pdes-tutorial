@@ -1,6 +1,6 @@
 # Using Physics-Informed Neural Networks to solve Partial Differential Equations
 
-This is the accompanying code and supplemental information for the paper _An Educational Demonstration Of Using Neural Networks To Solve Partial Differential Equations_. See the [provided Jupyter notebook](./Reference.ipynb) for more details.
+This is the accompanying code and supplemental information for the (as-yet unpublished) paper [_An Educational Demonstration Of Using Neural Networks To Solve Partial Differential Equations_](./paper.pdf). See the [provided Jupyter notebook](./Reference.ipynb) for more details.
 
 ## Results
 
